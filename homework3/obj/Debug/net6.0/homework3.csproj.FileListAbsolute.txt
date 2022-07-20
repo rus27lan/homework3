@@ -1,0 +1,15 @@
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/homework3.csproj.AssemblyReference.cache
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/homework3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/homework3.AssemblyInfoInputs.cache
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/homework3.AssemblyInfo.cs
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/homework3.csproj.CoreCompileInputs.cache
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/bin/Debug/net6.0/homework3
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/bin/Debug/net6.0/homework3.deps.json
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/bin/Debug/net6.0/homework3.runtimeconfig.json
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/bin/Debug/net6.0/homework3.dll
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/bin/Debug/net6.0/homework3.pdb
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/homework3.dll
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/refint/homework3.dll
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/homework3.pdb
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/homework3.genruntimeconfig.cache
+/Users/ruslanrustamov/Desktop/Учеба/home_work/homework3/obj/Debug/net6.0/ref/homework3.dll
